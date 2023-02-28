@@ -14,20 +14,21 @@
 - 😎 Go through my [portfolio](https://varun-rana-portfolio.netlify.app) to know more about me.
 
 - 💬 Tech I'm Working With Now:
-      * Javascript
-      * Typescript
-      * React
-      * NextJs
-      * Supabase
-      * React Query
-      * Chakra UI
-      * TurboRepo
-      * Formik
-      * NodeJs
-      * Eslint
- -💡 Favourite Project:
+  * **Javascript**
+  * **Typescript**
+  * **React**
+  * **NextJs**
+  * **Supabase**
+  * **React Query**
+  * **Chakra UI**
+  * **TurboRepo**
+  * **Formik**
+  * **NodeJs**
+  * **Eslint**
+  
+-💡 Favourite Project:
       [Colors Finder](http://findcolors.info)
 
 - 📫 How to reach me: 
-      * Email: varunrana829@gmail.com
-      * Twitter: @Varun_Ranaa
+  * **Email: varunrana829@gmail.com**
+  * **Twitter: @Varun_Ranaa**
