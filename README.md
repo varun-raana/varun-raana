@@ -24,9 +24,9 @@
   * **TurboRepo**
   * **Formik**
   * **NodeJs**
-  * **Eslint**
-  
--💡 Favourite Project:
+  * **Eslint**.
+
+- ✨ Favourite Project:
       [Colors Finder](http://findcolors.info)
 
 - 📫 How to reach me: 
