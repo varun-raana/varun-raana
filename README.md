@@ -2,15 +2,32 @@
 
 <!--
 **varun-raana/varun-raana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Welcome To My Profile
+### Some of the thing you want to know about me...✌️
+
+- 🏢 I’m currently working as a software engineer in a company named [MTechZilla](https://mtechzilla.com).
+
+- 🌱 I’m currently learning and working with Next.js [NextJs](https://nextjs.org) and supabase [Supabase](https://supabase.com).
+
+- 😎 Go through my [portfolio](https://varun-rana-portfolio.netlify.app) to know more about me.
+
+- 💬 Tech I'm Working With Now:
+      * Javascript
+      * Typescript
+      * React
+      * NextJs
+      * Supabase
+      * React Query
+      * Chakra UI
+      * TurboRepo
+      * Formik
+      * NodeJs
+      * Eslint
+ -💡 Favourite Project:
+      [Colors Finder](http://findcolors.info)
+
+- 📫 How to reach me: 
+      * Email: varunrana829@gmail.com
+      * Twitter: @Varun_Ranaa
